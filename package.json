@@ -1,0 +1,19 @@
+{
+  "name": "uploader",
+  "version": "0.0.1",
+  "description": "测试上传",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "测试上传"
+  ],
+  "author": "Kane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0",
+    "multer": "^0.1.8"
+  }
+}
